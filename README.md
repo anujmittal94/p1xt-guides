@@ -72,7 +72,7 @@ Math will be relevant throughout the guide. Begin it as you start the guide, and
 | [Trigonometry](https://www.khanacademy.org/math/trigonometry) |        |          |
 | [Precalculus](https://www.khanacademy.org/math/precalculus)   |        |          |
 
-### Tier X - Programming Prep Prep
+### Tier X - Programming Prep Prep (Skipped)
 
 A very gentle introduction, complete if feel you would benefit from it, skip if you'd rather dive right into tier 0
 
@@ -86,7 +86,7 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |              |
 
-### Tier 0 - Web Development - Fullstack Bootcamp - App Academy Open
+### Tier 0 - Web Development - Fullstack Bootcamp - App Academy Open (Alternative Chosen Below)
 
 Complete the [App Academy Open](https://open.appacademy.io/) free online Fullstack Bootcamp. See [FAQ](./faq.md) for alternatives.
 
@@ -108,6 +108,30 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 | Full Stack Online - Data Structures and Algorithms                                                                                                                    |            |              |
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |              |
+
+
+# Web Development - Deep Dive Into Modern Web Development - Full Stack Open 2020 Specialization
+
+Complete the [Deep Dive Into Modern Web Development - Full Stack Open 2020](https://fullstackopen.com/en) free online Fullstack course. You may elect to complete this specialization only once.
+
+| Courses                                                                                                                                                                         |   Status   |   Evidence   |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------: | :----------: |
+| Fundamentals of Web apps                                                                                                                                                        |            |              |
+| Introduction to React                                                                                                                                                           |            |              |
+| Communicating with server                                                                                                                                                       |            |              |
+| Programming a server with NodeJS and Express                                                                                                                                    |            |              |
+| Testing Express servers, user administration                                                                                                                                    |            |              |
+| Testing React apps                                                                                                                                                              |            |              |
+| State management with Redux                                                                                                                                                     |            |              |
+| React router, custom hooks, styling app with CSS and webpack                                                                                                                    |            |              |
+| GraphQL                                                                                                                                                                         |            |              |
+| Typescript                                                                                                                                                                      |            |              |
+| **Reading**                                                                                                                                                                     | **Status** | **Evidence** |
+| [Official React Docs](https://reactjs.org/docs/getting-started.html)                                                                                                            |            |              |
+| [Official Express Docs](https://expressjs.com/)                                                                                                                                 |            |              |
+| **Capstone**                                                                                                                                                                    | **Status** | **Evidence** |
+| Create a website highlighting what you learned and built during this specialization. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |              |
+
 
 ### Tier 1 - Getting Started
 
