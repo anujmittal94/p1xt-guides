@@ -125,14 +125,10 @@ Complete the [Deep Dive Into Modern Web Development - Full Stack Open 2020](http
 | React router, custom hooks, styling app with CSS and webpack                                                                                                                    |            |              |
 | GraphQL                                                                                                                                                                         |            |              |
 | Typescript                                                                                                                                                                      |            |              |
-| 
-React Native                                                                                                                                                                      |            |              |
-| 
-CI/CD                                                                                                                                                                      |            |              |
-| 
-Containers                                                                                                                                                                      |            |              |
-| 
-Using relational databases                                                                                                                                                                     |            |              |
+|React Native                                                                                                                                                                      |            |              |
+| CI/CD                                                                                                                                                                      |            |              |
+| Containers                                                                                                                                                                      |            |              |
+| Using relational databases                                                                                                                                                                     |            |              |
 |
 **Reading**                                                                                                                                                                     | **Status** | **Evidence** |
 | [Official React Docs](https://reactjs.org/docs/getting-started.html)                                                                                                            |            |              |
