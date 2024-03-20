@@ -129,8 +129,7 @@ Complete the [Deep Dive Into Modern Web Development - Full Stack Open 2020](http
 | CI/CD                                                                                                                                                                      |            |              |
 | Containers                                                                                                                                                                      |            |              |
 | Using relational databases                                                                                                                                                                     |            |              |
-|
-**Reading**                                                                                                                                                                     | **Status** | **Evidence** |
+|**Reading**                                                                                                                                                                     | **Status** | **Evidence** |
 | [Official React Docs](https://reactjs.org/docs/getting-started.html)                                                                                                            |            |              |
 | [Official Express Docs](https://expressjs.com/)                                                                                                                                 |            |              |
 | **Capstone**                                                                                                                                                                    | **Status** | **Evidence** |
