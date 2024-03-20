@@ -109,8 +109,7 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |              |
 
-
-# Web Development - Deep Dive Into Modern Web Development - Full Stack Open 2020 Specialization
+### Tier 0 - Web Development - Fullstack Bootcamp - Full Stack Open 2020 Specialization
 
 Complete the [Deep Dive Into Modern Web Development - Full Stack Open 2020](https://fullstackopen.com/en) free online Fullstack course. You may elect to complete this specialization only once.
 
